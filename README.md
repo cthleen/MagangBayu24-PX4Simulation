@@ -1,7 +1,7 @@
 # Magang Bayucaraka 2024 - PX4 Simulation
 
-Nama    : \
-NRP     : 
+Nama    : Cathleen Gracia\
+NRP     : 5025231018
 
 ## Cara Pengumpulan
 - Fork repositori ini
